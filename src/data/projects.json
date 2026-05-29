@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Tienda online DAWShop",
+    "description": "Proyecto final del módulo de Despliegue de Aplicaciones Web. E-commerce completo con catálogo de productos, carrito de compras, registro de usuarios y panel de administración. Backend con PHP y MySQL, frontend con HTML, CSS y JavaScript.",
+    "image": "public/img/project-ecommerce.jpg",
+    "link": "https://github.com/manuellcastillo/dawshop",
+    "tags": ["PHP", "MySQL", "JavaScript", "CSS", "Bootstrap"]
+  },
+  {
+    "id": 2,
+    "title": "Gestor de tareas Kanban",
+    "description": "Aplicación de gestión de tareas estilo Kanban con drag & drop, creada con React y Firebase. Permite crear tableros, columnas y tarjetas con asignación de colores y prioridades. Autenticación con Google.",
+    "image": "public/img/project-tasks.jpg",
+    "link": "https://github.com/manuellcastillo/kanban-app",
+    "tags": ["React", "Firebase", "Material UI", "DnD Kit"]
+  },
+  {
+    "id": 3,
+    "title": "App del tiempo",
+    "description": "Dashboard meteorológico que consume la API de OpenWeatherMap. Muestra temperatura actual, humedad, viento y pronóstico de 5 días. Incluye geolocalización y búsqueda de ciudades con autocompletado.",
+    "image": "public/img/project-weather.jpg",
+    "link": "https://github.com/manuellcastillo/weather-app",
+    "tags": ["JavaScript", "Fetch API", "CSS Grid", "OpenWeather"]
+  },
+  {
+    "id": 4,
+    "title": "Tabla dinámica JS",
+    "description": "Página web interactiva con tabla dinámica desarrollada exclusivamente con JavaScript Vanilla, HTML y CSS. Incluye formulario con validación, operaciones CRUD, ordenación de filas y persistencia con localStorage.",
+    "image": "public/img/project-table.jpg",
+    "link": "https://github.com/manuellcastillo/tabla-dinamica",
+    "tags": ["JavaScript", "HTML5", "CSS3", "localStorage", "DOM"]
+  },
+  {
+    "id": 5,
+    "title": "Blog personal con PHP",
+    "description": "Blog creado con PHP orientado a objetos y MySQL. Sistema de autenticación, CRUD de artículos con editor WYSIWYG, gestión de categorías y comentarios. Patrón MVC aplicado.",
+    "image": "public/img/project-blog.jpg",
+    "link": "https://github.com/manuellcastillo/php-blog",
+    "tags": ["PHP", "MySQL", "MVC", "TailwindCSS", "PDO"]
+  }
+]

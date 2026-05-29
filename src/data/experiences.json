@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "role": "Estudiante de DAW (Desarrollo de Aplicaciones Web)",
+    "place": "IES Al-Ándalus, Almería",
+    "dates": "Septiembre 2023 — Actualidad (2.º curso)",
+    "details": [
+      "Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web. Módulos cursados: Entornos de Desarrollo, Programación, Bases de Datos, Lenguajes de Marcas, Sistemas Informáticos y Despliegue Web.",
+      "Proyectos prácticos con React, Node.js, PHP, Java y Python, aplicando metodologías ágiles (Scrum) y control de versiones con Git.",
+      "Desarrollo de aplicaciones web completas, desde el diseño de la base de datos hasta el despliegue en servidores Apache y Nginx.",
+      "Uso de herramientas como Visual Studio Code, GitHub, Docker, Postman y XAMPP en el día a día del desarrollo."
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Estudiante de SMR (Sistemas Microinformáticos y Redes)",
+    "place": "IES Al-Ándalus, Almería",
+    "dates": "Septiembre 2021 — Junio 2023",
+    "details": [
+      "Ciclo Formativo de Grado Medio en Sistemas Microinformáticos y Redes. Módulos destacados: Montaje y Mantenimiento de Equipos, Redes Locales, Sistemas Operativos en Red y Aplicaciones Web.",
+      "Primera toma de contacto con la programación (JavaScript, PHP) y el desarrollo web (HTML, CSS).",
+      "Instalación y configuración de redes locales, servidores Linux y servicios de red en entornos virtualizados con VMware y VirtualBox.",
+      "Formación en seguridad informática básica y administración de sistemas Windows y GNU/Linux."
+    ]
+  },
+  {
+    "id": 3,
+    "role": "Prácticas formativas — Soporte Informático",
+    "place": "Ayuntamiento de Dos Hermanas",
+    "dates": "Abril 2023 — Junio 2023",
+    "details": [
+      "Mantenimiento de equipos informáticos, instalación de software y resolución de incidencias en los equipos del ayuntamiento.",
+      "Soporte técnico a usuarios: configuración de correo, red Wi-Fi, impresoras y aplicaciones ofimáticas.",
+      "Gestión de inventario de equipos y actualización de sistemas operativos en puestos de trabajo.",
+      "Documentación de procedimientos técnicos para el departamento de informática."
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+/* App-level styles are handled by MUI's sx prop and ThemeProvider */
+/* This file is kept minimal since MUI handles most styling */
+
+.app-root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.app-main {
+  flex-grow: 1;
+}

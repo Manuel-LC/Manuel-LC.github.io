@@ -1,0 +1,11 @@
+{
+  "name": "Manuel López Castillo",
+  "title": "Estudiante de DAW (Desarrollo de Aplicaciones Web)",
+  "email": "manuel.lopez123@email.com",
+  "phone": "+34 622 987 654",
+  "location": "Almería, España",
+  "github": "https://github.com/manuellcastillo",
+  "linkedin": "https://linkedin.com/in/manuellcastillo",
+  "about": "Soy estudiante de 2.º curso del Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW) en el IES Al-Ándalus (Almería). Me apasiona el desarrollo frontend, especialmente con React y JavaScript, y estoy aprendiendo constantemente nuevas tecnologías para crear aplicaciones web modernas, accesibles y bien estructuradas. Busco mi primera oportunidad profesional para seguir creciendo como desarrollador.",
+  "avatar": "/img/avatar.jpg"
+}
